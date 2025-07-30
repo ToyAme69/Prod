@@ -1,1 +1,2 @@
-print(2**3)
+resultado = ["rojo","L",100,10]
+print(resultado)
